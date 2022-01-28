@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:benjsicam/nestjs-graphql-microservices.git"
+    "url": "git+ssh://git@github.com:lishenga/nestjs-graphql-microservices.git"
   },
-  "author": "Benj Sicam <benjsicam@gmail.com> (https://github.com/benjsicam)",
+  "author": "Leon Lishenga <lishengaleon@gmail.com> (https://github.com/lishenga)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/benjsicam/nestjs-graphql-microservices/issues"
+    "url": "https://github.com/lishenga/nestjs-graphql-microservices/issues"
   },
-  "homepage": "https://github.com/benjsicam/nestjs-graphql-microservices#readme"
+  "homepage": "https://github.com/lishenga/nestjs-graphql-microservices#readme"
 }
